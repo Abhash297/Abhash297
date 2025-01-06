@@ -1,4 +1,4 @@
-# Hi there, I'm Abhash! 👋
+# Hi, I'm Abhash! 👋
 
 ## 🌟 About Me
 I’m Abhash Shrestha, a passionate **Computer Scientist**, **Data Scientist**, and **Software Engineer** based in Kathmandu, Nepal. I recently completed my **MSc in Computer Science** at the **University of Southampton**, where I specialized in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)**.
