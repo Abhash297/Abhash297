@@ -3,7 +3,7 @@
 🌐 [Portfolio](https://abhash297.github.io/abhash_portfolio/)  |  💼 [LinkedIn](https://linkedin.com/in/abhash-shrestha-13766917a/)  |  📫 [Email](mailto:abhashsth@gmail.com)
 
 ## 🌟 About Me
-I’m Abhash Shrestha, a passionate **Computer Scientist**, **Data Scientist**, and **Software Engineer** based in Kathmandu, Nepal. I completed my **MSc in Computer Science** at the **University of Southampton**, where I specialized in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)**.
+I’m Abhash Shrestha, a passionate **Researcher** and **Software Engineer** based in Kathmandu, Nepal. I completed my **MSc in Computer Science** at the **University of Southampton**, where I specialized in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)**.
 
 Over the years, I have worked on cutting-edge projects that span diverse domains, including **bias mitigation in AI systems**, **GDPR compliance research**, **time series classification optimization**, and **algorithmic trading**. My experience also includes developing and deploying robust software solutions for leading organizations.
 
