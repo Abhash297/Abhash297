@@ -10,7 +10,7 @@ Over the years, I have worked on cutting-edge projects that span diverse domains
 ---
 
 ## 🚀 Key Highlights of My Work
-- **Researcher at CAIR-Nepal**: Exploring AI fairness, mitigating biases using knowledge graphs, and co-authoring a research paper on GDPR tools and privacy-preserving technologies.
+- **Researcher at CAIR-Nepal**: Exploring AI bias and fairness, GDPR tools, and privacy-preserving technologies.
 - **MSc Dissertation**: Optimized the Shapelet Transform Classifier (STC) for time series classification, introducing novel quality measures to enhance speed and accuracy—results validated on 90 datasets.
 - **Software Development**: Proficient in designing and deploying APIs using .NET Core and optimizing database performance for large-scale applications.
 - **Machine Learning & AI**: Hands-on experience with deep learning frameworks like PyTorch, TensorFlow, and Keras for text and image recognition tasks.
